@@ -1,0 +1,16 @@
+{
+  "num_days": 3,
+  "num_workshops": 12,
+  "max_participants_per_workshop": null,
+  "keep_classes_together": "egal",
+  "wish_weights": {
+    "wunsch1": 10,
+    "wunsch2": 5,
+    "wunsch3": 2,
+    "wunsch4": 1
+  },
+  "language": "de",
+  "theme": "cosmo",
+  "last_import_path": "H:\\Personal Projects\\clown_orga",
+  "last_export_path": "H:\\Personal Projects\\clown_orga"
+}

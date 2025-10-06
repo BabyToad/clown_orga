@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//mnt/h/**)",
+      "Bash(cd:*)",
+      "Bash(chmod:*)",
+      "Bash(python3 -m pip install:*)",
+      "Bash(python3:*)",
+      "Bash(./venv/bin/pip install:*)",
+      "Bash(./venv/bin/pip list)",
+      "Bash(./venv/bin/python create_test_data.py:*)",
+      "Bash(./venv/bin/python -m pytest --cov=. --cov-report=term-missing --cov-report=html -v)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
