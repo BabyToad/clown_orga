@@ -2,6 +2,7 @@ pandas>=2.0.0
 openpyxl>=3.1.0
 pulp>=2.7.0
 ttkbootstrap>=1.10.1
+tkinterdnd2>=0.3.0
 
 # Testing dependencies
 pytest>=7.4.0
