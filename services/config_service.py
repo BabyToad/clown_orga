@@ -1,6 +1,6 @@
 """Configuration service - manages application settings."""
 from typing import Any, Dict
-from config import Config
+from services.config import Config
 
 
 class ConfigService:

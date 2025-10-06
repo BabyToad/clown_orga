@@ -2,7 +2,7 @@
 import time
 from typing import List, Dict
 
-from optimizer import WorkshopOptimizer
+from services.optimizer import WorkshopOptimizer
 from models import Student, OptimizationResult
 
 
